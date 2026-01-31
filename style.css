@@ -15,7 +15,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
 
 body {
     font-family: 'Courier New', Courier, monospace;
@@ -35,6 +34,7 @@ body {
     .btn-secondary: hover {
         background: var(--accent);
         color: #000000;
+    }
 .container {
     max-width: 1000px;
     margin: 0 auto;
@@ -210,3 +210,4 @@ footer {
     .date { margin-top: 5px; display: block; }
 
 }
+
